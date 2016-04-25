@@ -1,7 +1,7 @@
 name: weldblog
 favicon: null
-layout_spectrum: 0.30823514168150723
-typography_spectrum: 0.5700821671634912
+layout_spectrum: 0.16582
+typography_spectrum: 0.63776
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.41732477280311286
-  lightness: 0.30341050028800964
-  saturation: 0.5206917820032686
-  rhythmicContrast: 0.14072507247328758
+  brandStrength: 0.8125
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
