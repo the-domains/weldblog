@@ -4,7 +4,7 @@
         <description><![CDATA[Robert's weld experience]]></description>
         <link>https://thegrid.ai/weldblog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 21:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 21:37:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/weldblog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/weldblog/761a3a4c-a199-4fb7-bfb0-a2bd58f187f6/index.html</link>
             <guid isPermaLink="false">761a3a4c-a199-4fb7-bfb0-a2bd58f187f6</guid>
             <pubDate>Wed, 27 Apr 2016 21:28:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dag 2]]></title>
+            <description><![CDATA[<p>Dag 2 Prosjekt: Kammerpotte til Tempo Corvette 50cc</p>]]></description>
+            <link>https://thegrid.ai/weldblog/dag-2/index.html</link>
+            <guid isPermaLink="false">8d269333-df5f-48fd-ad04-15606d838d29</guid>
+            <pubDate>Wed, 27 Apr 2016 21:37:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
